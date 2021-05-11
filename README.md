@@ -8,4 +8,4 @@ cmake --build _build --target install
 ## Test
 cmake --build _build --target test
 
-[![Build Status]()
+[![Build Status]([![Build Status](https://travis-ci.org/nk-ymnik/suptertask.svg?branch=master)](https://travis-ci.org/nk-ymnik/suptertask))
