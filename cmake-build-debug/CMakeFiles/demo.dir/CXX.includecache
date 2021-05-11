@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/div.h
+
+/home/nikola/nk-ymnik/workspace/projects/suptertask/examples/demo.cpp
+div.h
+/home/nikola/nk-ymnik/workspace/projects/suptertask/examples/div.h
+
