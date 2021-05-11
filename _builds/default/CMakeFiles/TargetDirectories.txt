@@ -1,0 +1,12 @@
+/home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default/CMakeFiles/install/strip.dir
+/home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default/CMakeFiles/package_source.dir
+/home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default/CMakeFiles/install.dir
+/home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default/CMakeFiles/list_install_components.dir
+/home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default/CMakeFiles/rebuild_cache.dir
+/home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default/CMakeFiles/package.dir
+/home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default/CMakeFiles/check.dir
+/home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default/CMakeFiles/install/local.dir
+/home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default/CMakeFiles/demo.dir
+/home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default/CMakeFiles/edit_cache.dir
+/home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default/CMakeFiles/test.dir
+/home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default/CMakeFiles/div.dir

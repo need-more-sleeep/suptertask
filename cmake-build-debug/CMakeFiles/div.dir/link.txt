@@ -1,2 +1,0 @@
-/usr/bin/ar qc libdivd.a CMakeFiles/div.dir/sources/div.cpp.o
-/usr/bin/ranlib libdivd.a

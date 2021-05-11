@@ -1,0 +1,97 @@
+Execute command: [
+  `which`
+  `cmake`
+]
+[/home/nikola/nk-ymnik/workspace/projects/suptertask]> "which" "cmake"
+/usr/bin/cmake
+Execute command: [
+  `cmake`
+  `--version`
+]
+[/home/nikola/nk-ymnik/workspace/projects/suptertask]> "cmake" "--version"
+cmake version 3.16.3
+
+CMake suite maintained and supported by Kitware (kitware.com/cmake).
+Execute command: [
+  `cmake`
+  `-H.`
+  `-B/home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default`
+  `-DCMAKE_TOOLCHAIN_FILE=/home/nikola/nk-ymnik/workspace/projects/suptertask/tools/polly/default.cmake`
+]
+[/home/nikola/nk-ymnik/workspace/projects/suptertask]> "cmake" "-H." "-B/home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default" "-DCMAKE_TOOLCHAIN_FILE=/home/nikola/nk-ymnik/workspace/projects/suptertask/tools/polly/default.cmake"
+-- [polly] Used toolchain: Default
+-- The C compiler identification is GNU 10.2.0
+-- The CXX compiler identification is GNU 10.2.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- [hunter] Calculating Toolchain-SHA1
+-- [hunter] Calculating Config-SHA1
+-- [hunter] HUNTER_ROOT: /home/nikola/.hunter
+-- [hunter] [ Hunter-ID: 5659b15 | Toolchain-ID: 6a68b05 | Config-ID: 8a1641b ]
+-- [hunter] GTEST_ROOT: /home/nikola/.hunter/_Base/5659b15/6a68b05/8a1641b/Install (ver.: 1.10.0)
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - found
+-- Found Threads: TRUE
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default
+Execute command: [
+  `cmake`
+  `--build`
+  `/home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default`
+  `--`
+]
+[/home/nikola/nk-ymnik/workspace/projects/suptertask]> "cmake" "--build" "/home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default" "--"
+gmake[1]: вход в каталог «/home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default»
+gmake[2]: вход в каталог «/home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default»
+Scanning dependencies of target div
+gmake[2]: выход из каталога «/home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default»
+gmake[2]: вход в каталог «/home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default»
+[ 16%] Building CXX object CMakeFiles/div.dir/sources/div.cpp.o
+[ 33%] Linking CXX static library libdiv.a
+gmake[2]: выход из каталога «/home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default»
+[ 33%] Built target div
+gmake[2]: вход в каталог «/home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default»
+Scanning dependencies of target check
+gmake[2]: выход из каталога «/home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default»
+gmake[2]: вход в каталог «/home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default»
+[ 50%] Building CXX object CMakeFiles/check.dir/tests/tests.cpp.o
+[ 66%] Linking CXX executable check
+gmake[2]: выход из каталога «/home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default»
+[ 66%] Built target check
+gmake[2]: вход в каталог «/home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default»
+Scanning dependencies of target demo
+gmake[2]: выход из каталога «/home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default»
+gmake[2]: вход в каталог «/home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default»
+[ 83%] Building CXX object CMakeFiles/demo.dir/examples/demo.cpp.o
+[100%] Linking CXX executable demo
+gmake[2]: выход из каталога «/home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default»
+[100%] Built target demo
+gmake[1]: выход из каталога «/home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default»
+Execute command: [
+  `ctest`
+]
+[/home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default]> "ctest"
+Test project /home/nikola/nk-ymnik/workspace/projects/suptertask/_builds/default
+    Start 1: check
+1/1 Test #1: check ............................   Passed    0.00 sec
+
+100% tests passed, 0 tests failed out of 1
+
+Total Test time (real) =   0.01 sec

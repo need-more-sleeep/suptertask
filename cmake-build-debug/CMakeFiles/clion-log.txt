@@ -1,9 +1,0 @@
-/snap/clion/151/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/nikola/nk-ymnik/workspace/projects/suptertask
--- [hunter] Calculating Toolchain-SHA1
--- [hunter] Calculating Config-SHA1
--- [hunter] HUNTER_ROOT: /home/nikola/.hunter
--- [hunter] [ Hunter-ID: 5659b15 | Toolchain-ID: 6a68b05 | Config-ID: 8a1641b ]
--- [hunter] GTEST_ROOT: /home/nikola/.hunter/_Base/5659b15/6a68b05/8a1641b/Install (ver.: 1.10.0)
--- Configuring done
--- Generating done
--- Build files have been written to: /home/nikola/nk-ymnik/workspace/projects/suptertask/cmake-build-debug
