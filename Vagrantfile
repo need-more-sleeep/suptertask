@@ -1,11 +1,3 @@
-$script = <<-SCRIPT
-apt install -yy gcc g++ cmake git vim
-mkdir -p ~/workspace/projects/suptertask
-cd ~/workspace/projects/suptertask
-git clone https://github.com/nk-ymnik/suptertask.git
-cmake -H. -B_build -DCMAKE_INSTALL_PREFIX=_install -DBUILD_TESTS=ON
-cmake --build _build --target install
-SCRIPT
 
 Vagrant.configure("2") do |config|
 
