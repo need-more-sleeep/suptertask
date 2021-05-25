@@ -3,6 +3,6 @@
 #ifndef SUPTERTASK_LOG_H
 #define SUPTERTASK_LOG_H
 
-double log(double x,double y);
+double log(double x, double y);
 
 #endif //SUPTERTASK_LOG_H

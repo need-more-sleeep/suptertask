@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/check.dir/tests/tests.cpp.o -o check  liblogd.a /home/nikola/.hunter/_Base/5659b15/6a68b05/8a1641b/Install/lib/libgtest_maind.a /home/nikola/.hunter/_Base/5659b15/6a68b05/8a1641b/Install/lib/libgtestd.a -lpthread 

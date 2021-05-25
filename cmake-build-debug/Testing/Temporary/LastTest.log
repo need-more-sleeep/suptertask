@@ -1,0 +1,29 @@
+Start testing: May 25 15:27 MSK
+----------------------------------------------------------
+1/1 Testing: check
+1/1 Test: check
+Command: "/home/nikola/nk-ymnik/workspace/projects/suptertask/cmake-build-debug/check"
+Directory: /home/nikola/nk-ymnik/workspace/projects/suptertask/cmake-build-debug
+"check" start time: May 25 15:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/nikola/.hunter/_Base/35fa55b/6a68b05/b78b2c5/Build/GTest/Source/googletest/src/gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TEST
+[ RUN      ] TEST.log
+[       OK ] TEST.log (0 ms)
+[----------] 1 test from TEST (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"check" end time: May 25 15:27 MSK
+"check" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 25 15:27 MSK

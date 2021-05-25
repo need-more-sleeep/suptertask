@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/log.h
+
+/home/nikola/nk-ymnik/workspace/projects/suptertask/sources/log.cpp
+cmath
+-
+log.h
+/home/nikola/nk-ymnik/workspace/projects/suptertask/sources/log.h
+

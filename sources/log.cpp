@@ -2,7 +2,7 @@
 #include <cmath>
 #include "log.h"
 
-double log(double x,double y){
-    return log(x)/log(y);
+double log(double x, double y) {
+    return log(x) / log(y);
 }
 

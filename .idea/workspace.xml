@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="log" targetName="check" />
+      <config projectName="log" targetName="log" />
+      <config projectName="log" targetName="demo" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="829120ec-4794-4993-ace2-cb31fa8fd9d8" name="Default Changelist" comment="rk3.4">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/suptertask.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/clang-cxx14/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/clang-cxx14/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/3.16.3/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/3.16.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/3.16.3/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/3.16.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/3.16.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/3.16.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/3.16.3/CompilerIdC/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/3.16.3/CompilerIdC/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/3.16.3/CompilerIdCXX/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/3.16.3/CompilerIdCXX/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/Export/cmake/div-config-noconfig.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/Export/cmake/div-config-noconfig.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/Export/cmake/div-config.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/Export/cmake/div-config.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/check.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/check.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/check.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/check.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/check.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/check.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/check.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/check.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/check.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/check.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/check.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/check.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/check.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/check.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/check.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/check.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/demo.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/demo.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/demo.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/demo.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/demo.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/demo.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/demo.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/demo.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/demo.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/demo.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/demo.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/demo.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/demo.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/demo.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/div.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/div.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/div.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/div.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/div.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/div.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/div.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/div.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/div.dir/cmake_clean_target.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/div.dir/cmake_clean_target.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/div.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/div.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/div.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/div.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/div.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/div.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CPackConfig.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CPackConfig.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CPackSourceConfig.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CPackSourceConfig.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/CTestTestfile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/CTestTestfile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/config-id/config.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/config-id/config.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/config-id/config.cmake.NOLF" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/config-id/config.cmake.NOLF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/install-root-dir" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/install-root-dir" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/_builds/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/_builds/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/3.16.3/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/3.16.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/3.16.3/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/3.16.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/3.16.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/3.16.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/3.16.3/CompilerIdC/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/3.16.3/CompilerIdC/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/3.16.3/CompilerIdCXX/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/3.16.3/CompilerIdCXX/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/_builds/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/_builds/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/_builds/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/_builds/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/toolchain.info" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/toolchain.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/toolchain.info.NOLF" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/_3rdParty/Hunter/toolchain/toolchain.info.NOLF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/check" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/check" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_builds/default/demo" beforeDir="false" afterPath="$PROJECT_DIR$/_builds/default/demo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/demo.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/examples/demo.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/log.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/log.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sources/log.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/sources/log.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/polly" beforeDir="false" afterPath="$PROJECT_DIR$/tools/polly" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sOyb38CR0lllDwSnxONWZBNFEc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="ctest.advertisement.all.test.configuration.is.created" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="CTest Application.All CTest">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="log" TARGET_NAME="check" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="log" RUN_TARGET_NAME="check" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="log" TARGET_NAME="demo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="log" RUN_TARGET_NAME="demo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="log" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="log" TARGET_NAME="log" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All CTest" type="CTestRunConfiguration" factoryName="CTestRun" PROGRAM_PARAMS="--extra-verbose" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" WORKING_DIR="file://$CMakeCurrentLocalGenerationDir$" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_PATH="$CTestCurrentExecutableName$" EXPLICIT_BUILD_TARGET_NAME="all" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.demo" />
+      <item itemvalue="CMake Application.log" />
+      <item itemvalue="CTest Application.All CTest" />
+      <item itemvalue="Google Test.check" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="829120ec-4794-4993-ace2-cb31fa8fd9d8" name="Default Changelist" comment="" />
+      <created>1620758001893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620758001893</updated>
+      <workItem from="1620758006391" duration="2213000" />
+      <workItem from="1620760233072" duration="19000" />
+      <workItem from="1620760263906" duration="2932000" />
+      <workItem from="1621080668877" duration="277000" />
+      <workItem from="1621942495501" duration="3148000" />
+    </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1620759750186</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620759750186</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first">
+      <created>1620760449679</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620760449679</updated>
+    </task>
+    <task id="LOCAL-00003" summary="tag">
+      <created>1620761740261</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1620761740261</updated>
+    </task>
+    <task id="LOCAL-00004" summary="tag2">
+      <created>1620761846133</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1620761846133</updated>
+    </task>
+    <task id="LOCAL-00005" summary="tag3">
+      <created>1620761924459</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1620761924459</updated>
+    </task>
+    <task id="LOCAL-00006" summary="polly">
+      <created>1620763588207</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1620763588207</updated>
+    </task>
+    <task id="LOCAL-00007" summary="rk3">
+      <created>1621944908224</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1621944908224</updated>
+    </task>
+    <task id="LOCAL-00008" summary="rk3.1">
+      <created>1621945005598</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1621945005598</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <MESSAGE value="tag" />
+    <MESSAGE value="tag2" />
+    <MESSAGE value="tag3" />
+    <MESSAGE value="polly" />
+    <MESSAGE value="rk3" />
+    <MESSAGE value="rk3.1" />
+    <MESSAGE value="rk3.2" />
+    <MESSAGE value="rk3.3" />
+    <MESSAGE value="rk3.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="rk3.4" />
+  </component>
+</project>
